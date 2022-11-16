@@ -1,7 +1,7 @@
 # Tarea_N2
 ## 1. OBJETIVOS
 
-   1.1 General
+   1.1 Generales
     
 Analizar todos los contenidos presentes en los capítulos tres y cuatro del texto "Principios de circuitos eléctricos" de Thomas L. Floyd, mediante la elaboracion de los ejercicios impares de cada capitulo, con el fin de continuar con el proceso de aprendizage e introducirnos en una de las principales leyes de los circuitos.
 
