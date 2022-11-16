@@ -49,7 +49,7 @@ caída de voltaje, se indica mediante los signos + y  -.
 ![Fuentes](https://user-images.githubusercontent.com/93681159/142214315-0f004ee3-0ae8-4c1d-b0a1-b4fe03f07461.jpeg)
 
 ## 3. EJERCICIOS
-![IMAGEN 1](https://user-images.githubusercontent.com/93893919/142353244-1a9e5217-5f03-4782-b9f9-dc973b79425b.png)
+![image](https://user-images.githubusercontent.com/116779906/202296640-7efdf843-d5aa-4d80-852a-d77070e057b5.png)
 
 ![IMAGEN 2](https://user-images.githubusercontent.com/93893919/142353245-85b850ec-598e-4854-8076-1c4e7dd9991e.png)
 
