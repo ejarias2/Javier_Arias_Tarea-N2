@@ -49,15 +49,15 @@ caída de voltaje, se indica mediante los signos + y  -.
 ![Fuentes](https://user-images.githubusercontent.com/93681159/142214315-0f004ee3-0ae8-4c1d-b0a1-b4fe03f07461.jpeg)
 
 ## 3. EJERCICIOS
-![image](https://user-images.githubusercontent.com/116779906/202296640-7efdf843-d5aa-4d80-852a-d77070e057b5.png)
+![image](https://user-images.githubusercontent.com/116779906/202298603-a55b0726-44d9-430a-b9ff-bfb1fb8d60e4.png)
 
-![IMAGEN 2](https://user-images.githubusercontent.com/93893919/142353245-85b850ec-598e-4854-8076-1c4e7dd9991e.png)
+![image](https://user-images.githubusercontent.com/116779906/202298684-b5310e24-f73a-4401-ba98-7d1a52958e8c.png)
 
-![IMAGEN 3](https://user-images.githubusercontent.com/93893919/142353246-e0ffde0e-aa91-490c-9373-ba46f65da167.png)
+![image](https://user-images.githubusercontent.com/116779906/202298721-50ae9157-0d96-48ec-bf5e-7ad51f7c520c.png)
 
-![IMAGEN 4](https://user-images.githubusercontent.com/93893919/142353249-950e1989-635d-46f9-96d0-1b7055fc792f.png)
+![image](https://user-images.githubusercontent.com/116779906/202298768-ac075a0f-7305-4d7f-91cb-21fb14bda44b.png)
 
-![IMAGEN 5](https://user-images.githubusercontent.com/93893919/142353335-2e57d8a0-c935-45e0-883a-04d619c8550b.png)
+![image](https://user-images.githubusercontent.com/116779906/202298819-6a4c22f0-0dd2-4c9b-81d8-1be544968a9a.png)
 
 ![1 1](https://user-images.githubusercontent.com/93666408/142358359-e35344c0-cd28-415e-ac48-3f70929238fa.PNG)
 ![1 2](https://user-images.githubusercontent.com/93666408/142358371-380e24d7-819b-465b-b3b0-6f43685b7963.PNG)
@@ -65,8 +65,8 @@ caída de voltaje, se indica mediante los signos + y  -.
 ![1 4](https://user-images.githubusercontent.com/93666408/142358411-e8b6fe05-be39-42ad-b474-17d0a758e52e.PNG)
 ![1 5](https://user-images.githubusercontent.com/93666408/142358422-59e7fe5c-aaf8-4f67-bfc2-de8810124355.PNG)
 
+
 ## 4. VIDEO
-Enlace video subido a youtube:
 
 
 
