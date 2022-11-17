@@ -67,7 +67,7 @@ caída de voltaje, se indica mediante los signos + y  -.
 
 
 ## 4. VIDEO
-
+https://www.youtube.com/watch?v=bt6pZImXJio
 
 
 ## 5. CONCLUSIONES
